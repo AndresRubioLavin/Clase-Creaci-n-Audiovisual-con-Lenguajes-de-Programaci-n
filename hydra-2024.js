@@ -1,0 +1,5 @@
+voronoi(5,0.3,0.3)
+  .rotate(0,.4)
+  .posterize( 30 , 0.5 )
+  .color(2,2,3)
+  .out()
